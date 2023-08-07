@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <div align=center>
   <h2> Algorithm </h2>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gudrb4869)](https://solved.ac/profile/gudrb4869)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gudrb4869)](https://solved.ac/gudrb4869)
 </div>
